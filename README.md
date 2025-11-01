@@ -1,1 +1,1 @@
-# 2D-Array---DS
+# 2D-Array---DS This code calculates the maximum hourglass sum in a 6x6 2D array by summing the values of every hourglass-shaped subset and keeping track of the largest sum. The `Main` method reads the 6x6 array from input, calls `hourglassSum`, and prints the maximum sum.
